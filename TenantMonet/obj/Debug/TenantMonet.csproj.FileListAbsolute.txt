@@ -1,0 +1,29 @@
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\bin\Debug\TenantMonet.exe.config
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\bin\Debug\TenantMonet.exe
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\bin\Debug\TenantMonet.pdb
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.Login.resources
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.Properties.Resources.resources
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.exe
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.pdb
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.Menu.resources
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.InputKendaraan.resources
+C:\Users\ASUS\Desktop\TenantMoney\TenantMonet\TenantMonet\obj\Debug\TenantMonet.Sewa.resources
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.csprojAssemblyReference.cache
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.DaftarKendaraan.resources
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.InputKendaraan.resources
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.Login.resources
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.Menu.resources
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.Properties.Resources.resources
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.Sewa.resources
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.csproj.GenerateResource.cache
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.csproj.CoreCompileInputs.cache
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.exe
+D:\Prakt Pbo\TenantMonet\TenantMonet\obj\Debug\TenantMonet.pdb
+D:\Prakt Pbo\TenantMonet\TenantMonet\bin\Debug\TenantMoney.mdf
+D:\Prakt Pbo\TenantMonet\TenantMonet\bin\Debug\TenantMoney_log.ldf
+D:\Prakt Pbo\TenantMonet\TenantMonet\bin\Debug\TenantMonet.exe.config
+D:\Prakt Pbo\TenantMonet\TenantMonet\bin\Debug\TenantMonet.exe
+D:\Prakt Pbo\TenantMonet\TenantMonet\bin\Debug\TenantMonet.pdb
